@@ -1,0 +1,35 @@
+{
+  "name": "Nayetwolf-Dark",
+  "displayName": "Nayetwolf",
+  "description": "Visually striking theme, that takes you on a nostalgic journey back to the vibrant era of the 80s and 90s.",
+  "version": "0.0.1",
+  "publisher": "IlyasFilali",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nayetwolf"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "retro theme",
+    "genesis theme",
+    "nayetwolf theme",
+    "vintage terminal theme",
+    "retro terminal"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nayetwolf",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nayetwolf-color-theme.json"
+      }
+    ]
+  }
+}
