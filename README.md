@@ -4,6 +4,10 @@
 
 The Vintage Terminal Theme is a nostalgic, retro-inspired theme designed to bring the look and feel of vintage computer terminals to your Visual Studio Code editor. With carefully chosen colors, reminiscent of old monochrome displays, and subtle effects, this theme provides a unique and immersive coding experience.
 
+## Screenshot
+![vintage theme vscode](https://github.com/Nayetwolf/Vintage-Terminal-Theme-vsCode/assets/101524577/2380bd40-12df-43d2-b993-624b9e9383a1)
+
+
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
 * Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
 * Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
